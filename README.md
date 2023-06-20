@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Control Panel -> Programs -> Turn Windows features on or off. Next, scroll to Internet Information Sevices to check it then expand it to World Wide Web Services -> Application Development Features & check **CGI**
+Control Panel -> Programs -> Turn Windows features on or off. Next, scroll to Internet Information Sevices to check it then expand it to World Wide Web Services -> Application Development Features & check CGI. Collapse Application Development Features -> Common HTTP Features check all options & click OK.
 </p>
 <br />
 
