@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="[[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/xNagIo0.png)](https://imgur.com/xNagIo0)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[[[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/xNagIo0.png)](https://imgur.com/xNagIo0)](https://i.imgur.com/xNagIo0.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Control Panel -> Programs -> Turn Windows features on or off. Next, scroll to Internet Information Sevices to check it then expand it to World Wide Web Services -> Application Development Features & check CGI. Collapse Application Development Features -> Common HTTP Features check all options & click OK.
